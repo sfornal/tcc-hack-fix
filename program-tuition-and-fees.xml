@@ -1,0 +1,1605 @@
+<courses>
+	<course>
+		<ProgramCode>AART.D001.UG</ProgramCode>
+		<ProgramTitle>Associate of Arts</ProgramTitle>
+		<ProgramType>AA</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AART.D005.UG</ProgramCode>
+		<ProgramTitle>Associate of Arts in Business</ProgramTitle>
+		<ProgramType>AA</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AART.D002.UG</ProgramCode>
+		<ProgramTitle>Associate of Arts in Kinesiology</ProgramTitle>
+		<ProgramType>AA</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AART.D003.UG</ProgramCode>
+		<ProgramTitle>Associate of Arts in Music</ProgramTitle>
+		<ProgramType>AA</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AART.D004.UG</ProgramCode>
+		<ProgramTitle>Associate of Arts in Visual Arts</ProgramTitle>
+		<ProgramType>AA</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AATE.D003.UG</ProgramCode>
+		<ProgramTitle>Associate of Arts in Teaching (EC-6)</ProgramTitle>
+		<ProgramType>AAT</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AATE.D004.UG</ProgramCode>
+		<ProgramTitle>Associate of Arts in Teaching (4-8 EC-12 Special Education)</ProgramTitle>
+		<ProgramType>AAT</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AATE.D005.UG</ProgramCode>
+		<ProgramTitle>Associate of Arts in Teaching (8-12 EC-12 Other Than Special Education)</ProgramTitle>
+		<ProgramType>AAT</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ASCI.D001.UG</ProgramCode>
+		<ProgramTitle>Associate of Science</ProgramTitle>
+		<ProgramType>AS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ASCI.D002.UG</ProgramCode>
+		<ProgramTitle>Associate of Science in Chemistry</ProgramTitle>
+		<ProgramType>AS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ASCI.D003.UG</ProgramCode>
+		<ProgramTitle>Associate of Science in Mathematics</ProgramTitle>
+		<ProgramType>AS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ASCE.D006.UG</ProgramCode>
+		<ProgramTitle>Associate of Science in Engineering</ProgramTitle>
+		<ProgramType>AS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F010.UG</ProgramCode>
+		<ProgramTitle>Music</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>31</TotalHours>
+		<TotalCost>$1,984</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F015.UG</ProgramCode>
+		<ProgramTitle>Nursing</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>34</TotalHours>
+		<TotalCost>$2,176</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F016.UG</ProgramCode>
+		<ProgramTitle>Social Work</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F017.UG</ProgramCode>
+		<ProgramTitle>Civil Engineering</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>39</TotalHours>
+		<TotalCost>$2,496</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F019.UG</ProgramCode>
+		<ProgramTitle>Mechanical Engineering</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>36</TotalHours>
+		<TotalCost>$2,304</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F023.UG</ProgramCode>
+		<ProgramTitle>Architecture</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>36</TotalHours>
+		<TotalCost>$2,304</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F024.UG</ProgramCode>
+		<ProgramTitle>Criminal Justice</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F027.UG</ProgramCode>
+		<ProgramTitle>Business Administration and Management</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>24</TotalHours>
+		<TotalCost>$1,536</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AFOS.F029.UG</ProgramCode>
+		<ProgramTitle>Psychology</ProgramTitle>
+		<ProgramType>FOS</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ACCO.D002.UG</ProgramCode>
+		<ProgramTitle>Accounting Information Management</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ACCO.T003.UG</ProgramCode>
+		<ProgramTitle>Accounting Clerk I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ACCO.T004.UG</ProgramCode>
+		<ProgramTitle>Accounting Clerk II</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>28</TotalHours>
+		<TotalCost>$1,792</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ACCO.T005.UG</ProgramCode>
+		<ProgramTitle>Accounting Clerk III</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>43</TotalHours>
+		<TotalCost>$2,752</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ACCO.T006.UG</ProgramCode>
+		<ProgramTitle>Basic Bookkeeper</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>9</TotalHours>
+		<TotalCost>$576</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ANES.D001.UG</ProgramCode>
+		<ProgramTitle>Anesthesia Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ARCH.D001.UG</ProgramCode>
+		<ProgramTitle>Architectural Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ARCH.T001.UG</ProgramCode>
+		<ProgramTitle>Architectural CAD Operator</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ARCH.T005.UG</ProgramCode>
+		<ProgramTitle>Architectural Paraprofessional</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ARCH.T009.UG</ProgramCode>
+		<ProgramTitle>Architectural Technology</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>9</TotalHours>
+		<TotalCost>$576</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ATPP.D004.UG</ProgramCode>
+		<ProgramTitle>Professional Pilot</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ATPP.T005.UG</ProgramCode>
+		<ProgramTitle>Commercial Pilot</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>39</TotalHours>
+		<TotalCost>$2,496</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ATPP.T006.UG</ProgramCode>
+		<ProgramTitle>Flight Instructor</ProgramTitle>
+		<ProgramType>ESC</ProgramType>
+		<TotalHours>6</TotalHours>
+		<TotalCost>$384</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTC.D001.UG</ProgramCode>
+		<ProgramTitle>Automotive Collision Repair</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTC.T001.UG</ProgramCode>
+		<ProgramTitle>Automotive Metal Repair</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTC.T002.UG</ProgramCode>
+		<ProgramTitle>Automotive Refinishing</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTS.D001.UG</ProgramCode>
+		<ProgramTitle>Automotive Service Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTS.D002.UG</ProgramCode>
+		<ProgramTitle>Automotive Service Technology-Toyota Technician Education Network</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTS.T001.UG</ProgramCode>
+		<ProgramTitle>Engine Analysis Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTS.T002.UG</ProgramCode>
+		<ProgramTitle>Heavy Line Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>29</TotalHours>
+		<TotalCost>$1,856</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTS.T003.UG</ProgramCode>
+		<ProgramTitle>General Service Technician</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>12</TotalHours>
+		<TotalCost>$768</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTS.T004.UG</ProgramCode>
+		<ProgramTitle>Toyota General Service Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>25</TotalHours>
+		<TotalCost>$1,600</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AUTS.T005.UG</ProgramCode>
+		<ProgramTitle>Toyota Service Technician</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AVIA.D002.UG</ProgramCode>
+		<ProgramTitle>Aviation Maintenance Technology—Airframe</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AVIA.T001.UG</ProgramCode>
+		<ProgramTitle>Aviation Maintenance Technology Airframe</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AVIA.D003.UG</ProgramCode>
+		<ProgramTitle>Aviation Maintenance Technology—Powerplant</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AVIA.T002.UG</ProgramCode>
+		<ProgramTitle>Aviation Maintenance Technology Powerplant</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AVIA.T004.UG</ProgramCode>
+		<ProgramTitle>Advanced Composite Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>16</TotalHours>
+		<TotalCost>$1,024</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>AVIA.T005.UG</ProgramCode>
+		<ProgramTitle>Avionics Line Maintenance</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.D001.UG</ProgramCode>
+		<ProgramTitle>Business Administration—Accounting Assistant</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.TA01.UG</ProgramCode>
+		<ProgramTitle>Accounting Assistant I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.TA02.UG</ProgramCode>
+		<ProgramTitle>Accounting Assistant II</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>24</TotalHours>
+		<TotalCost>$1,536</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.TA03.UG</ProgramCode>
+		<ProgramTitle>Accounting Assistant III</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.D003.UG</ProgramCode>
+		<ProgramTitle>Business Administration—Business</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T011.UG</ProgramCode>
+		<ProgramTitle>Business I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>24</TotalHours>
+		<TotalCost>$1,536</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T012.UG</ProgramCode>
+		<ProgramTitle>Business II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.D004.UG</ProgramCode>
+		<ProgramTitle>Business Administration—Fashion Merchandising</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T013.UG</ProgramCode>
+		<ProgramTitle>Fashion Merchandising I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T014.UG</ProgramCode>
+		<ProgramTitle>Fashion Merchandising II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T015.UG</ProgramCode>
+		<ProgramTitle>Fashion Sales Associate</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>12</TotalHours>
+		<TotalCost>$768</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.D005.UG</ProgramCode>
+		<ProgramTitle>Business Administration—Management</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T016.UG</ProgramCode>
+		<ProgramTitle>Management I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>24</TotalHours>
+		<TotalCost>$1,536</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T017.UG</ProgramCode>
+		<ProgramTitle>Management II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T025.UG</ProgramCode>
+		<ProgramTitle>Retail Management</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>24</TotalHours>
+		<TotalCost>$1,536</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.D006.UG</ProgramCode>
+		<ProgramTitle>Business Administration—Marketing</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T018.UG</ProgramCode>
+		<ProgramTitle>Marketing I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T019.UG</ProgramCode>
+		<ProgramTitle>Marketing II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T021.UG</ProgramCode>
+		<ProgramTitle>Marketing</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>12</TotalHours>
+		<TotalCost>$768</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.D011.UG</ProgramCode>
+		<ProgramTitle>Business Administration—Entrepreneurship and Small Business Management</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T022.UG</ProgramCode>
+		<ProgramTitle>Entrepreneurship and Small Business Management I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T023.UG</ProgramCode>
+		<ProgramTitle>Entrepreneurship and Small Business Management II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>BUAD.T024.UG</ProgramCode>
+		<ProgramTitle>Small Business Associate</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>12</TotalHours>
+		<TotalCost>$768</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CADD.D004.UG</ProgramCode>
+		<ProgramTitle>Computer-Aided Drafting and Design Technology (CADD)—Manufacturing Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CADD.D005.UG</ProgramCode>
+		<ProgramTitle>Computer-Aided Drafting and Design Technology(CADD)—Building/Civil Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CADD.T008.UG</ProgramCode>
+		<ProgramTitle>Building Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>29</TotalHours>
+		<TotalCost>$1,856</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CADD.T009.UG</ProgramCode>
+		<ProgramTitle>Civil Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CADD.T010.UG</ProgramCode>
+		<ProgramTitle>Manufacturing Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>44</TotalHours>
+		<TotalCost>$2,816</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CADD.T012.UG</ProgramCode>
+		<ProgramTitle>CNC Machinist Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>25</TotalHours>
+		<TotalCost>$1,600</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CADD.T013.UG</ProgramCode>
+		<ProgramTitle>Basic CAD Technician</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>14</TotalHours>
+		<TotalCost>$896</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CHIL.D001.UG</ProgramCode>
+		<ProgramTitle>Child Development</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CHIL.T002.UG</ProgramCode>
+		<ProgramTitle>Child Care Administration</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>39</TotalHours>
+		<TotalCost>$2,496</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CHIL.T003.UG</ProgramCode>
+		<ProgramTitle>Preschool Child Care Provider</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>27</TotalHours>
+		<TotalCost>$1,728</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CHIL.T007.UG</ProgramCode>
+		<ProgramTitle>After School Provider</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>26</TotalHours>
+		<TotalCost>$1,664</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CONS.D003.UG</ProgramCode>
+		<ProgramTitle>Construction Management Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CONS.T004.UG</ProgramCode>
+		<ProgramTitle>Construction Inspection Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>19</TotalHours>
+		<TotalCost>$1,216</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CONS.T008.UG</ProgramCode>
+		<ProgramTitle>Construction Management Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>25</TotalHours>
+		<TotalCost>$1,600</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CRIM.D001.UG</ProgramCode>
+		<ProgramTitle>Criminal Justice</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CRIM.T003.UG</ProgramCode>
+		<ProgramTitle>Basic Peace Officer Certification</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CRIM.T006.UG</ProgramCode>
+		<ProgramTitle>Security Management</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>9</TotalHours>
+		<TotalCost>$576</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CSSC.T001.UG</ProgramCode>
+		<ProgramTitle>Computer Support Specialist (Customer Service/Call Center/Teleservice Operations)</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CULI.D003.UG</ProgramCode>
+		<ProgramTitle>Culinary Arts</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CULI.T006.UG</ProgramCode>
+		<ProgramTitle>Catering/Private Chef</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>47</TotalHours>
+		<TotalCost>$3,008</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CULI.T007.UG</ProgramCode>
+		<ProgramTitle>Culinary Arts I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>CULI.T009.UG</ProgramCode>
+		<ProgramTitle>Baking and Pastry</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>29</TotalHours>
+		<TotalCost>$1,856</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DEMR.T001.UG</ProgramCode>
+		<ProgramTitle>Diesel Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DENH.D001.UG</ProgramCode>
+		<ProgramTitle>Dental Hygiene</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>68</TotalHours>
+		<TotalCost>$4,352</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DIET.D002.UG</ProgramCode>
+		<ProgramTitle>Dietetic Technician</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DIET.T009.UG</ProgramCode>
+		<ProgramTitle>Dietary Manager</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DIET.T006.UG</ProgramCode>
+		<ProgramTitle>Nutrition Specialist I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>16</TotalHours>
+		<TotalCost>$1,024</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DIET.T007.UG</ProgramCode>
+		<ProgramTitle>Food and Nutrition Coach</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>44</TotalHours>
+		<TotalCost>$2,816</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DIET.T008.UG</ProgramCode>
+		<ProgramTitle>Healthy Meal Planning</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>9</TotalHours>
+		<TotalCost>$576</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DMSO.D001.UG</ProgramCode>
+		<ProgramTitle>Diagnostic Medical Sonography</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>65</TotalHours>
+		<TotalCost>$4,160</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DMSO.T001.UG</ProgramCode>
+		<ProgramTitle>Diagnostic Medical Sonography</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>41</TotalHours>
+		<TotalCost>$2,624</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>DNTA.T001.UG</ProgramCode>
+		<ProgramTitle>Registered Dental Assistant</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>25</TotalHours>
+		<TotalCost>$1,600</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.D004.UG</ProgramCode>
+		<ProgramTitle>Electronics Technology—Electronics and Telecommunication</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.D005.UG</ProgramCode>
+		<ProgramTitle>Electronics Technology—Engineering Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.D006.UG</ProgramCode>
+		<ProgramTitle>Electronics Technology—Robotics and Automation</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.D009.UG</ProgramCode>
+		<ProgramTitle> Electronics Techonology—Advanced Energy Technician</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.T001.UG</ProgramCode>
+		<ProgramTitle>Electronics Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>23</TotalHours>
+		<TotalCost>$1,472</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.T002.UG</ProgramCode>
+		<ProgramTitle>Electronics Engineering Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>29</TotalHours>
+		<TotalCost>$1,856</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.T003.UG</ProgramCode>
+		<ProgramTitle>Mechatronics Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.T006.UG</ProgramCode>
+		<ProgramTitle>Renewable Energy Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>29</TotalHours>
+		<TotalCost>$1,856</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELEC.T008.UG</ProgramCode>
+		<ProgramTitle>Fundamentals of Electronics</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>12</TotalHours>
+		<TotalCost>$768</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ELPT.T001.UG</ProgramCode>
+		<ProgramTitle>Electrician Helper</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>EMER.D002.UG</ProgramCode>
+		<ProgramTitle>Emergency Medical Services</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>EMER.T002.UG</ProgramCode>
+		<ProgramTitle>Paramedic Program</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>33</TotalHours>
+		<TotalCost>$2,112</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>EMER.T003.UG</ProgramCode>
+		<ProgramTitle>Emergency Medical Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ENVI.D003.UG</ProgramCode>
+		<ProgramTitle>Occupational Safety and Environmental Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ENVI.T004.UG</ProgramCode>
+		<ProgramTitle>Environmental Health and Safety Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>24</TotalHours>
+		<TotalCost>$1,536</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ENVI.T006.UG</ProgramCode>
+		<ProgramTitle>Water Resources Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>20</TotalHours>
+		<TotalCost>$1,280</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>FIRP.D001.UG</ProgramCode>
+		<ProgramTitle>Fire Protection Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>FIRP.T002.UG</ProgramCode>
+		<ProgramTitle>Basic Firefighter Certification</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>GINS.D001.UG</ProgramCode>
+		<ProgramTitle>Geographic Information Systems</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>GINS.T001.UG</ProgramCode>
+		<ProgramTitle>Geographic Information Systems</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>41</TotalHours>
+		<TotalCost>$2,624</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>GINS.T003.UG</ProgramCode>
+		<ProgramTitle>GIS Programmer</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>39</TotalHours>
+		<TotalCost>$2,496</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>GINS.T004.UG</ProgramCode>
+		<ProgramTitle>Basic Geographic Information Systems (GIS) Skills</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>20</TotalHours>
+		<TotalCost>$1,280</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>GRPH.D001.UG</ProgramCode>
+		<ProgramTitle>Graphic Communication</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>GRPH.T004.UG</ProgramCode>
+		<ProgramTitle>Computer Graphics</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>36</TotalHours>
+		<TotalCost>$2,304</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>GRPH.T006.UG</ProgramCode>
+		<ProgramTitle>Photographic Retouching</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HEAT.D005.UG</ProgramCode>
+		<ProgramTitle>Heating, Air Conditioning and Refrigeration-Commercial HVAC/R Technician</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HEAT.D006.UG</ProgramCode>
+		<ProgramTitle>Heating, Air Conditioning and Refrigeration-Residential HVAC/R Technician</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HEAT.T008.UG</ProgramCode>
+		<ProgramTitle>HVAC Installer</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>11</TotalHours>
+		<TotalCost>$704</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HEAT.T009.UG</ProgramCode>
+		<ProgramTitle>HVAC Residential Technician I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>23</TotalHours>
+		<TotalCost>$1,472</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HEAT.T010.UG</ProgramCode>
+		<ProgramTitle>HVAC Residential Technician II</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>20</TotalHours>
+		<TotalCost>$1,280</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HEAT.T011.UG</ProgramCode>
+		<ProgramTitle>HVAC/R Commercial Technician</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>51</TotalHours>
+		<TotalCost>$3,264</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HITT.D001.UG</ProgramCode>
+		<ProgramTitle>Health Information Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HORT.D001.UG</ProgramCode>
+		<ProgramTitle>Horticulture</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HORT.T004.UG</ProgramCode>
+		<ProgramTitle>Horticulture</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>31</TotalHours>
+		<TotalCost>$1,984</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HORT.T005.UG</ProgramCode>
+		<ProgramTitle>Plant Health Specialist</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>19</TotalHours>
+		<TotalCost>$1,216</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HORT.T006.UG</ProgramCode>
+		<ProgramTitle>Horticulture Basic Skills</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>13</TotalHours>
+		<TotalCost>$832</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HORT.T007.UG</ProgramCode>
+		<ProgramTitle>Horticulture Business Management</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>40</TotalHours>
+		<TotalCost>$2,560</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.D007.UG</ProgramCode>
+		<ProgramTitle>Hospitality Management-Hospitality/Travel &amp; Tourism Management</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.T005.UG</ProgramCode>
+		<ProgramTitle>Hospitality/Hotel Supervision</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>16</TotalHours>
+		<TotalCost>$1,024</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.T006.UG</ProgramCode>
+		<ProgramTitle>Hospitality/Travel &amp; Tourism Supervision</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>43</TotalHours>
+		<TotalCost>$2,752</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.D008.UG</ProgramCode>
+		<ProgramTitle>Hospitality Management-Meeting/Event Planning/Convention &amp; Group Management</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.T009.UG</ProgramCode>
+		<ProgramTitle>Meeting &amp; Event Planning/Convention &amp; Group Management</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>19</TotalHours>
+		<TotalCost>$1,216</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.D006.UG</ProgramCode>
+		<ProgramTitle>Hospitality Management-Foodservice Management</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.T007.UG</ProgramCode>
+		<ProgramTitle>Beverage Management I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>22</TotalHours>
+		<TotalCost>$1,408</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.T008.UG</ProgramCode>
+		<ProgramTitle>Beverage Management II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>40</TotalHours>
+		<TotalCost>$2,560</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HOSP.T010.UG</ProgramCode>
+		<ProgramTitle>Foodservice Operations</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HRMG.D001.UG</ProgramCode>
+		<ProgramTitle> Human Resources Management</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HRMG.T001.UG</ProgramCode>
+		<ProgramTitle> Human Resources Specialist I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>24</TotalHours>
+		<TotalCost>$1,536</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>HRMG.T002.UG</ProgramCode>
+		<ProgramTitle> Human Resources Specialist II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>42</TotalHours>
+		<TotalCost>$2,688</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>INMT.D002.UG</ProgramCode>
+		<ProgramTitle>Industrial Technician</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>INMT.T003.UG</ProgramCode>
+		<ProgramTitle>Industial Technician I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>25</TotalHours>
+		<TotalCost>$1,600</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>INMT.T004.UG</ProgramCode>
+		<ProgramTitle>Industial Technician II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>42</TotalHours>
+		<TotalCost>$2,688</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.D002.UG</ProgramCode>
+		<ProgramTitle>Information Technology-Network Support</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.D003.UG</ProgramCode>
+		<ProgramTitle>Information Technology-Programming</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.D006.UG</ProgramCode>
+		<ProgramTitle>Information Technology-Game, Simulation and Animation Design</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.D007.UG</ProgramCode>
+		<ProgramTitle>Information Technology-Cybersecurity</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.D009.UG</ProgramCode>
+		<ProgramTitle> Information Technology-Web Applications Programming</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T001.UG</ProgramCode>
+		<ProgramTitle>Cisco Support</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>16</TotalHours>
+		<TotalCost>$1,024</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T004.UG</ProgramCode>
+		<ProgramTitle>Information Technology Support</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T007.UG</ProgramCode>
+		<ProgramTitle>Game and Simulation Programming I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>20</TotalHours>
+		<TotalCost>$1,280</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T008.UG</ProgramCode>
+		<ProgramTitle>Game and Simulation Programming II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>39</TotalHours>
+		<TotalCost>$2,496</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T009.UG</ProgramCode>
+		<ProgramTitle>Network Support</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>41</TotalHours>
+		<TotalCost>$2,624</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T010.UG</ProgramCode>
+		<ProgramTitle>Programming I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>25</TotalHours>
+		<TotalCost>$1,600</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T011.UG</ProgramCode>
+		<ProgramTitle>Programming II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T016.UG</ProgramCode>
+		<ProgramTitle>Animation for Game and Simulation</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>21</TotalHours>
+		<TotalCost>$1,344</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T019.UG</ProgramCode>
+		<ProgramTitle>Cybersecurity Specialist</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>27</TotalHours>
+		<TotalCost>$1,728</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T020.UG</ProgramCode>
+		<ProgramTitle>Ethical Hacking</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>47</TotalHours>
+		<TotalCost>$3,008</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T022.UG</ProgramCode>
+		<ProgramTitle> Web Applications Programming I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>28</TotalHours>
+		<TotalCost>$1,792</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCS.T023.UG</ProgramCode>
+		<ProgramTitle> Web Applications Programming II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>31</TotalHours>
+		<TotalCost>$1,984</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCT.D003.UG</ProgramCode>
+		<ProgramTitle>Convergence Technologies—Cloud Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>ITCT.T005.UG</ProgramCode>
+		<ProgramTitle>Convergence Cloud Technologies</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LEGA.D002.UG</ProgramCode>
+		<ProgramTitle>Paralegal Studies</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LEGA.T002.UG</ProgramCode>
+		<ProgramTitle>Paralegal Studies</ProgramTitle>
+		<ProgramType>CAT</ProgramType>
+		<TotalHours>33</TotalHours>
+		<TotalCost>$2,112</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LIBR.D001.UG</ProgramCode>
+		<ProgramTitle>Library Technician</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LIBR.T001.UG</ProgramCode>
+		<ProgramTitle>Library Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>19</TotalHours>
+		<TotalCost>$1,216</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LNWK.D001.UG</ProgramCode>
+		<ProgramTitle>Electrical Line Technician</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LNWK.T001.UG</ProgramCode>
+		<ProgramTitle>Ground Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>25</TotalHours>
+		<TotalCost>$1,600</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LNWK.T002.UG</ProgramCode>
+		<ProgramTitle>Line Technician</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>44</TotalHours>
+		<TotalCost>$2,816</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LOGI.D001.UG</ProgramCode>
+		<ProgramTitle>Logistics and Supply Chain Management</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LOGI.T001.UG</ProgramCode>
+		<ProgramTitle>Transportation Management</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LOGI.T002.UG</ProgramCode>
+		<ProgramTitle>Warehouse Management</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>LONG.T001.UG</ProgramCode>
+		<ProgramTitle>Long Term Care Administration</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>27</TotalHours>
+		<TotalCost>$1,728</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>MDCA.T001.UG</ProgramCode>
+		<ProgramTitle>Medical Assistant</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>40</TotalHours>
+		<TotalCost>$2,560</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>MENT.D004.UG</ProgramCode>
+		<ProgramTitle>Mental Health and Human Services</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>MENT.D005.UG</ProgramCode>
+		<ProgramTitle> Mental Health Substance Abuse Counseling</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>MENT.T003.UG</ProgramCode>
+		<ProgramTitle>Substance Abuse Counseling</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>24</TotalHours>
+		<TotalCost>$1,536</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>MENT.T004.UG</ProgramCode>
+		<ProgramTitle>Social Work</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>NDTE.D001.UG</ProgramCode>
+		<ProgramTitle> Nondestructive Inspection, Testing and Evaluation</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>NMTT.D001.UG</ProgramCode>
+		<ProgramTitle>Nuclear Medicine Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>NURS.D003.UG</ProgramCode>
+		<ProgramTitle>Nursing</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>NURS.T001.UG</ProgramCode>
+		<ProgramTitle>Vocational Nursing</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>45</TotalHours>
+		<TotalCost>$2,880</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>OFTP.D001.UG</ProgramCode>
+		<ProgramTitle>Office Technology Professional</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>OFTP.T001.UG</ProgramCode>
+		<ProgramTitle>Administrative Specialist</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>27</TotalHours>
+		<TotalCost>$1,728</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>OFTP.T002.UG</ProgramCode>
+		<ProgramTitle>Applications Specialist</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>22</TotalHours>
+		<TotalCost>$1,408</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>OFTP.T003.UG</ProgramCode>
+		<ProgramTitle>Office Technology Specialist</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>44</TotalHours>
+		<TotalCost>$2,816</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>OFTP.T004.UG</ProgramCode>
+		<ProgramTitle>Office Assistant</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>10</TotalHours>
+		<TotalCost>$640</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>OPTS.D001.UG</ProgramCode>
+		<ProgramTitle>Ophthalmic Technician</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>OPTS.T001.UG</ProgramCode>
+		<ProgramTitle>Ophthalmic Assistant I</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>OPTS.T002.UG</ProgramCode>
+		<ProgramTitle>Ophthalmic Assistant II</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>32</TotalHours>
+		<TotalCost>$2,048</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>PFPB.D001.UG</ProgramCode>
+		<ProgramTitle>Pipe Fitter</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>PFPB.T001.UG</ProgramCode>
+		<ProgramTitle>Pipefitting—Basic</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>18</TotalHours>
+		<TotalCost>$1,152</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>PFPB.T002.UG</ProgramCode>
+		<ProgramTitle>Pipefitting—Advanced</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>20</TotalHours>
+		<TotalCost>$1,280</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>PTCT.T001.UG</ProgramCode>
+		<ProgramTitle>Patient Care Technician</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>15</TotalHours>
+		<TotalCost>$960</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>PTHA.D001.UG</ProgramCode>
+		<ProgramTitle>Physical Therapist Assistant</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>66</TotalHours>
+		<TotalCost>$4,224</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>RADT.D001.UG</ProgramCode>
+		<ProgramTitle>Radiologic Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>64</TotalHours>
+		<TotalCost>$4,096</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>RADT.T003.UG</ProgramCode>
+		<ProgramTitle>Computed Tomography Advanced</ProgramTitle>
+		<ProgramType>CAT</ProgramType>
+		<TotalHours>16</TotalHours>
+		<TotalCost>$1,024</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>RADT.T005.UG</ProgramCode>
+		<ProgramTitle>Magnetic Resonance Imaging Technology Advanced</ProgramTitle>
+		<ProgramType>CAT</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>RADT.T007.UG</ProgramCode>
+		<ProgramTitle> Vascular Interventional Radiography</ProgramTitle>
+		<ProgramType>CAT</ProgramType>
+		<TotalHours>23</TotalHours>
+		<TotalCost>$1,472</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>REAL.D001.UG</ProgramCode>
+		<ProgramTitle>Real Estate</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>REAL.T001.UG</ProgramCode>
+		<ProgramTitle>Real Estate</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>16</TotalHours>
+		<TotalCost>$1,024</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>RESP.D001.UG</ProgramCode>
+		<ProgramTitle>Respiratory Care</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>66</TotalHours>
+		<TotalCost>$4,224</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>RTVF.D001.UG</ProgramCode>
+		<ProgramTitle>Radio, Television and Film</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>RTVF.T002.UG</ProgramCode>
+		<ProgramTitle>Sound Recording Technology</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>RTVF.T004.UG</ProgramCode>
+		<ProgramTitle>Multimedia Production</ProgramTitle>
+		<ProgramType>CRT2</ProgramType>
+		<TotalHours>39</TotalHours>
+		<TotalCost>$2,496</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>SIGN.D003.UG</ProgramCode>
+		<ProgramTitle>Sign Language Interpreting</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>65</TotalHours>
+		<TotalCost>$4,160</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>SIGN.T001.UG</ProgramCode>
+		<ProgramTitle>Sign Language Communicator</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>30</TotalHours>
+		<TotalCost>$1,920</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>SIGN.T002.UG</ProgramCode>
+		<ProgramTitle>Basic American Sign Language Acquisition</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>16</TotalHours>
+		<TotalCost>$1,024</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>SIGN.T005.UG</ProgramCode>
+		<ProgramTitle>Conversational ASL for Healthcare Workers</ProgramTitle>
+		<ProgramType>OSA</ProgramType>
+		<TotalHours>13</TotalHours>
+		<TotalCost>$832</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>SIGN.T006.UG</ProgramCode>
+		<ProgramTitle>Educational Sign Language Interpreting</ProgramTitle>
+		<ProgramType>ESC</ProgramType>
+		<TotalHours>6</TotalHours>
+		<TotalCost>$384</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>SRCS.T001.UG</ProgramCode>
+		<ProgramTitle>Central Sterile Processing</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>16</TotalHours>
+		<TotalCost>$1,024</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>SURG.D001.UG</ProgramCode>
+		<ProgramTitle>Surgical Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>WELD.D001.UG</ProgramCode>
+		<ProgramTitle>Welding Technology</ProgramTitle>
+		<ProgramType>AAS</ProgramType>
+		<TotalHours>60</TotalHours>
+		<TotalCost>$3,840</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>WELD.T002.UG</ProgramCode>
+		<ProgramTitle>Welding—Basic</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>22</TotalHours>
+		<TotalCost>$1,408</TotalCost>
+	</course>
+	<course>
+		<ProgramCode>WELD.T003.UG</ProgramCode>
+		<ProgramTitle>Welding—Advanced</ProgramTitle>
+		<ProgramType>CRT1</ProgramType>
+		<TotalHours>20</TotalHours>
+		<TotalCost>$1,280</TotalCost>
+	</course>
+</courses>
